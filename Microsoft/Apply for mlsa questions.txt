@@ -1,0 +1,57 @@
+let's take up the first question so the question     
+ is 
+Q1.If your were hosting a technical  event, what steps would you take to increase 
+awareness about your event and attarct the targetted audience.
+
+If I would host a technical event then first of all I will share the event details
+with my class fellows and then I will start sharing it with other students using 
+ social media platforms. Definitely most of the students won't join event without
+knowing what they will get after attending event. so it is very important fact that I need
+to make sure that students must know the values of the event.what kind of skills or new concepts
+they will learn by joining the event and one more thing that I think is important is the timing of event
+which should be a good time on which most students are avaialble camlet's consider I organize the event on 12:00 PM
+so it is quite possible that students from another college or school may have classes at that time
+that means they won't be able to attend session.so I will also consider event timing as an important factor.  
+Giving audience a refreshment and certificate of appreciation can also attract targetted audience. 
+And which student would like to miss
+free refreshment or a certificate? definitely no one .so by doing that I will be able to increase audience
+for joining the ecvent. Last but not least i'm really excited to be the part of    
+  this microsoft family and to be able to reach more laerners & teachers 
+
+
+Q2.
+How have you acted as an agent of change to inspire and influence your peers. Detail a specific example
+
+I am pasionate about exploring technologies and learning new stuff and 
+then conveying that to my fellows. A year ago when I was learning java in my 2nd semester, I then
+wanted to have a certificate of java by Google/Microsoft.So after a small research on google I found about 
+Microsoft Technology Associate Exam, so I prepared for it and passed the exam for java and successfully earned the certificate 
+with title 'Microsoft Associate Technology Introduction to programming using java' which I then shared 
+on my social media feed, so many of my friends congratulated me and some asked that how they can also get this certificate.
+So I guided them about registration and helped them to prepare themselves for the exam so they all qualified and got the 
+certificate too.
+A few days ago I have earned AndroidSeekho swags by Google and another valuable certificate by Huawei with title 
+'Huawei Training Course Certificate' by passing
+HMS Foundation Course exam and have posted on social media and some friends asked for help and now a days I am
+guiding those so that they can also achieve the same thing.
+
+
+
+Q3.
+How would you take a technical concept and teach it to a friend or peer that has never heard of it?
+
+I have taught many students even some of my class fellows too mostly in final exams preparation days 
+like in 2nd semester I helped some fellows in Linear Algebra And Analytical Geometry and some in Programming using
+java and in 3rd semster helped some in data structures and algorithms.
+They ask me for help because they know that I am able to teach them in a way that they can grab easily.
+I would like to give an example let's say I have a friend who is beginner in fluter 
+and now I want to teach my friend about 
+"STATE MANAGEMENT" in flutter which he has never heard about. Then to make him understand,  of course first, I will need to clear
+my own concepts about state management. After I have a good understanding of the concept which I am going to convey,
+so now I will teach him how to achieve state management in flutter step by step "Practically" and then 
+I will be giving him task to achieve it on his own now. and I will check his final work
+if there will be any mistakes or he stucks at some point then I will come to know that at which point he lacks 
+so I will teach that to him with the visual represetation of the specified point in widget tree and then again assign him the 
+same task until he gets it done on his own
+Then definitely by doing so 
+he can learn that new concept in an unforgettable way.
